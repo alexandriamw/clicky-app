@@ -1,0 +1,2 @@
+body{background:#7c1642;color:#f9f9f9;font-family:Sniglet,cursive;letter-spacing:.5px}header{text-align:center}h1{font-size:40px}h2{font-size:30px}h3{font-size:26px}.grid-container{display:grid;grid-template-columns:auto auto auto auto;background-color:#cf5c36;margin:0 80px;grid-gap:10px;padding:10px}.grid-item img{max-width:100%;height:auto;display:block;-webkit-transition:transform .16s ease-out;transition:transform .16s ease-out;cursor:pointer}.grid-item img:hover{-webkit-transform:scale(1.1);transform:scale(1.1)}
+/*# sourceMappingURL=main.03438272.chunk.css.map */
